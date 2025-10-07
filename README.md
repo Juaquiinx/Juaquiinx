@@ -19,7 +19,7 @@
 
 - 💬 Pregúntame sobre programación en general, siempre <br> estaré disponible para aprender juntos.
 
-- 📫 How to reach meme puedes consultar en: 
+- 📫 Me puedes encontrar en: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Juaghinx </a>
 
 
